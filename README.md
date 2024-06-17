@@ -1,2 +1,2 @@
 # Sample-Repo
-## Welcome to Git & GitHub
+ This Repo contains sample html file.
